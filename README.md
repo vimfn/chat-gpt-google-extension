@@ -2,6 +2,8 @@
 
 A browser extension to display ChatGPT response alongside Google Search results **only when the query ends withs a question mark(?)**, supports Chrome/Edge/Firefox. 
 
+![image](https://user-images.githubusercontent.com/102473837/206112841-d2c68900-1585-4fad-9d0f-b5ee87d28c67.png)
+
 ## Installation
 
 ### Install to Chrome/Edge
