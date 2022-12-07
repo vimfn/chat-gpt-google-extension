@@ -32,5 +32,5 @@ A browser extension to display ChatGPT response alongside Google Search results 
 
 ## Credit
 
-This project is a fork of [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) by [wong2](github.com/wong2).
+This project is a fork of [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) by [wong2](https://github.com/wong2).
 
