@@ -1,4 +1,4 @@
-# ChatGPT for Google (But more privacy Focused)
+# ChatGPT for Google (But with `?`)
 
 A browser extension to display ChatGPT response alongside Google Search results **only when the query ends withs a question mark(?)**, supports Chrome/Edge/Firefox. 
 
